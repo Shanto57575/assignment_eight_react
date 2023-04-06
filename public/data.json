@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "date": "March 30, 2023",
+        "backgroundImg": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=740&t=st=1680201528~exp=1680202128~hmac=edc64f2d2e911fe97456d0ba478cf031108b391e6e3c395d2834321c91ee69f0",
+        "authorImg": "https://randomuser.me/api/portraits/men/1.jpg",
+        "header": "Programming job? Check these tips!",
+        "hashtag": "#beginners #programming",
+        "time": 12
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "date": "March 29, 2023",
+        "backgroundImg": "https://img.freepik.com/free-vector/web-development-composition_1284-4532.jpg?w=740&t=st=1680201749~exp=1680202349~hmac=fdfc9c6712edd5fe84649d8a08f1c4cf1c5048eaf95a5dd6be9709d6b9b02feb",
+        "authorImg": "https://randomuser.me/api/portraits/women/2.jpg",
+        "header": "Web development: What lies ahead?",
+        "hashtag": "#webDevelopment #webApplication",
+        "time": 7
+    },
+    {
+        "id": 3,
+        "name": "Bob Johnson",
+        "date": "March 28, 2023",
+        "backgroundImg": "https://img.freepik.com/free-vector/data-concept-illustration-idea-collecting-analysing-using_613284-1574.jpg?w=826&t=st=1680201818~exp=1680202418~hmac=d046810d015c1d777d8d8a3e06a0b7a2d21452198067a645ebf1a5a5402ae713",
+        "authorImg": "https://randomuser.me/api/portraits/men/3.jpg",
+        "header": "Mastering data analysis: Key insights",
+        "hashtag": "#dataScience #dataAnalysis",
+        "time": 10
+    },
+    {
+        "id": 4,
+        "name": "Alice Smith",
+        "date": "March 27, 2023",
+        "backgroundImg": "https://img.freepik.com/free-vector/wireframe-robot-ai-artificial-intelligence-form-cyborg-bot-brain-robotic-hand-digital-brain_127544-851.jpg?w=740&t=st=1680201915~exp=1680202515~hmac=feb81d96fcdb5a489571ba743f4e4b64fc7020c9fbdaa3d0455bd9a284990917",
+        "authorImg": "https://randomuser.me/api/portraits/women/4.jpg",
+        "header": "AI Revolution: Transforming Industries Globally",
+        "hashtag": "#artificialIntelligence #ai #futureAi",
+        "time": 5
+    }
+]
